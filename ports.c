@@ -95,3 +95,7 @@ void open_door() {
     WSACleanup();
 
 }
+
+void close_door() {
+    printf("[*] close_door() not implemented yet.\n");
+}
